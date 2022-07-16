@@ -380,8 +380,8 @@ hr{
 .accordion_header:after{
     content: "";
     display: block;
-    width: 16px;
-    height: 16px;
+    width: 17px;
+    height: 17px;
     border-top: 2px solid #ccc;
     border-right: 2px solid #ccc;
     position: absolute;
